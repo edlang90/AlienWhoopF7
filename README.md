@@ -1,5 +1,5 @@
 # AlienWhoopF7 ELRS
-This project is forked from [Brucesdad12's AlienWhoopF7 Project](https://github.com/brucesdad13/AlienWhoopF7). I wanted to modify the project a bit and add some additional features.
+This project is forked from [Brucesdad13's AlienWhoopF7 Project](https://github.com/brucesdad13/AlienWhoopF7). I wanted to modify the project a bit and add some additional features.
 
 //![Put project image here](img)
 
