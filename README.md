@@ -1,7 +1,7 @@
 # AlienWhoopF7 ELRS
 This project is forked from [Brucesdad12's AlienWhoopF7 Project](https://github.com/brucesdad13/AlienWhoopF7). I wanted to modify the project a bit and add some additional features.
 
-//![IMAGE AlienWhoop F7 Flight Controller Welcome](img)
+//![Put project image here](img)
 
 # AlienWhoopF7 ELRS Features
 Besides the already mentioned features in the original project page, here are some of the features I have added. I focused this project only on the F7 board (F4 is no longer supported on this board).
