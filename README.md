@@ -11,9 +11,9 @@ Besides the already mentioned features in the original project page, here are so
 * VTx Control pads
 * 4 Addressable LEDs incorporated
 
-* Note: pilots must NO LONGER supply external receiver. You only need a compatible ELRS 2.4GHz Transmitter.
+* Note: external receiver is NO LONGER required. You only need a compatible ELRS 2.4GHz Transmitter.
 
-Recomended by origican creators is 0.8mm 2oz Copper ENIG (gold) finish purple PCBs from OSH Park
+Recomended by original creators is 0.8mm 2oz Copper ENIG (gold) finish purple PCBs from OSH Park
 
 
 ## Acknowledgements
