@@ -1,19 +1,20 @@
-# AlienWhoopF7 ELRS
+# WhoopF7 ELRS
 This project is forked from [Brucesdad13's AlienWhoopF7 Project](https://github.com/brucesdad13/AlienWhoopF7). I wanted to modify the project a bit and add some additional features.
 
 //![Put project image here](img)
 
-# AlienWhoopF7 ELRS Features
+# WhoopF7 ELRS Features
 Besides the already mentioned features in the original project page, here are some of the features I have added. I focused this project only on the F7 board (F4 is no longer supported on this board).
 
 * ExpressLRS 2.4 GHz CCG Receiver incorporated into the PCB. No more worrying about range (or latency)
-* Added OSD support
-* VTx Control pads
+* Added FrSky Pixel OSD support
+* VTx Control pad
 * 4 Addressable LEDs incorporated
+* Voltage Sensor
 
 * Note: external receiver is NO LONGER required. You only need a compatible ELRS 2.4GHz Transmitter.
 
-Recomended by original creators is 0.8mm 2oz Copper ENIG (gold) finish purple PCBs from OSH Park
+This design is a bit more complex than the original, so a 4 layer PCB is required. It must still be 0.8mm thick. More info in the [Hardware Folder](/Hardware/)
 
 
 ## Acknowledgements
