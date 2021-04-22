@@ -12,8 +12,6 @@ Besides the already mentioned features in the original project page, here are so
 * 4 Addressable LEDs incorporated
 * Voltage Sensor
 
-* Note: external receiver is NO LONGER required. You only need a compatible ELRS 2.4GHz Transmitter.
-
 This design is a bit more complex than the original, so a 4 layer PCB is required. It must still be 0.8mm thick. More info in the [Hardware Folder](/Hardware/)
 
 
