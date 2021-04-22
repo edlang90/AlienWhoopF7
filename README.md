@@ -1,7 +1,7 @@
 # WhoopF7 ELRS
 This project is forked from [Brucesdad13's AlienWhoopF7 Project](https://github.com/brucesdad13/AlienWhoopF7). I wanted to modify the project a bit and add some additional features.
 
-<img src="img/PCBfront.jpg" width="30%"> <img src="img/PCBback.jpg" width="30%">
+<img src="img/PCBfront.png" width="30%"> <img src="img/PCBback.png" width="30%">
 
 # WhoopF7 ELRS Features
 Besides the already mentioned features in the original project page, here are some of the features I have added. I focused this project only on the F7 board (F4 is no longer supported on this board).
