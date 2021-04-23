@@ -14,6 +14,7 @@ Besides the already mentioned features in the original project page, here are so
 
 This design is a bit more complex than the original, so a 4 layer PCB is required. It must still be 0.8mm thick. More info in the [Hardware Folder](/Hardware/)
 
+Schematics, PCB design and BOM available in the [project page](https://oshwlab.com/eduardolang90/whoopf7-elrs)
 
 ## Acknowledgements
 (From original project)
