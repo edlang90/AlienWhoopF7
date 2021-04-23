@@ -37,4 +37,15 @@ Equally deep bows to Jesse Perkins, creator of Tiny Whoop, and the source of ins
 
 ~ Please note: **AlienWhoop** is not affiliated with nor endorsed by AlienFlight or forks of Lance's work such as AlienFlight NG. The use of Alien in the name and the alien head vector graphic used on the board silkscreen are nods to the lineage of this remix and to the work of Lance and others who created the conditions for this project to arise. Likewise, AlienWhoop is not affiliated with nor endorsed by Tiny Whoop. The Whoop in the name comes from Jesse Perkin's fantastic Tiny Whoop ("a small first-person-view aircraft that truly allows you to feel the gift of flight and the feeling of being tiny" [tinywhoop.com]) and is simply a nod to his efforts and the TW community worldwide.
 
-AlienWhoopF7 ELRS designed by [edlang90] and shared under the GNU General Public License v3.0
+### Contact
+
+For any questions, comments, etc. please don't hesitate to contact me!
+
+Eduardo Lang
+
+eduardolang90@gmail.com
+
+
+
+
+##### AlienWhoopF7 ELRS designed by [edlang90] and shared under the GNU General Public License v3.0
