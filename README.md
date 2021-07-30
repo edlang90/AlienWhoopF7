@@ -1,5 +1,5 @@
 # WhoopF7 ELRS
-This project is forked from [Brucesdad13's AlienWhoopF7 Project](https://github.com/brucesdad13/AlienWhoopF7). I wanted to modify the project a bit and add some additional features.
+This project is forked from [Brucesdad13's AlienWhoopF7 Project](https://github.com/brucesdad13/AlienWhoopF7). I wanted to modify the project a bit and add some additional features to create a custom whoop flight controller.
 
 <img src="img/PCBfront.png" width="30%"> <img src="img/PCBback.png" width="30%">
 
